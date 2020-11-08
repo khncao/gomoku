@@ -1,8 +1,11 @@
 # Gomoku
 2 human or vs 1 computer five in a row game using minimax algorithm with alpha beta pruning
 
+## Unity Version 2019.4.12f1+
+
 ## Status
 
+- Still need static evaluator improvements
 - Maximum depths greater than 1 are currently not behaving as expected (computer simple mistakes)
 
 ## Game Description
