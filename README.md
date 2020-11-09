@@ -41,3 +41,10 @@ Some factors that are considered for evaluation in a typical game of Gomoku:
     - No open ends or 
     - Available tiles on both ends less than five
   - Less than four consecutive pieces and only one open end
+
+## Usage
+
+Build and run in compatible Unity Editor version.
+Alternatively, a WebGL build is hosted here: https://khncao.github.io/gomoku/ 
+
+CC0
